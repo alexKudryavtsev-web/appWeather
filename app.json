@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "slug": "appweather",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "12b6886f-1761-4a66-901d-e0e1a79117e1"
+      }
+    },
+    "owner": "alexkudryavtsev-web"
   }
 }
